@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArchMVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="player_name">NAME: </string>
+    <string name="player_position">POSITION: </string>
+    <string name="player_heightfeet">HEIGHTFEET: </string>
+    <string name="player_weightpounds">WEIGHTPOUNDS: </string>
+    <string name="team_city">CITY: </string>
+    <string name="team_abbreviation">TEAM ABBREVIATION: </string>
+    <string name="team_name">TEAM NAME: </string>
+    <string name="current_season_average_information">SEASON AVERAGE INFORMATION:</string>
+    <string name="select_a_year_for_stats">SELECT A YEAR FOR STATS:</string>
+    <string name="search">SEARCH</string>
+</resources>
